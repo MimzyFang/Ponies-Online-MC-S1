@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
+metafile = true
+
+[[files]]
+file = "mods/clifftree.pw.toml"
+hash = "26ba049aa3a4df79b9c5b1cd31d69b710d7b64abeaaf013adc7924e7801b33c5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "7cd71deb6b83b2244c93fceb438227072fc8ab6e9cae95b9cbdcab1e95c4e51c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "958810fbf4f0c978e3c7a78b42829cdb4dcdc78be467dab37a9993df2d3eb5c0"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-mineshaft.pw.toml"
+hash = "76278809585fa354f2a4def972c59f5ae5e3270beaac7e419e24e4870f6d6652"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "4c0cc01c047bdb7b3fe3096e509f55278c170a8355fb170085e319ec8a19fe32"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "9541280459d936c6da82cb076dd9cd30e1fb5e97de993ac41f4e9da922620ba5"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "fdebd801d6761d163378e7699cf708219e387844b81127be40b56bd327cbedc8"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "1f9c70510fe21d5028a900ae31923e12c4bc4d7bbc38937f9c90ef75385ae6b7"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "29eb2bfab304dc0c77cefbe18c813ec8a0f26d62e56a237f6683718e101f9f53"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "904ad5b0b32e5875203ded1e5f98995d2b93441e42c9a82fa6ca884a933a729d"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "aec1bc8136aebf7fc8278b6622f1d5180608a20ab33286783508a3146a1bd146"
+metafile = true

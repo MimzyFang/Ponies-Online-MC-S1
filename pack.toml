@@ -1,0 +1,13 @@
+name = "Tectonic Cliftree"
+author = "Nyx"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ae5677e4db5d05093dad4d5ea1b80904bb25e0efe3b83f702ebb76e1d47dfdcb"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"
