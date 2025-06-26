@@ -6,38 +6,88 @@ hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "8de5db0155cb2c17fe7279c1a26bfd96b5dadead9edb691ee62573dd1b4e279d"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "db6f63c236744a2ff1fba5bbc12493ee78a45dd3f5b1c288a856d0ef9d4ff407"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "e8f4f9993e7112e338b1bc56d2b9d8056226c8cd46fb36c3cd47c75aedeff63d"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
+hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
 metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "26ba049aa3a4df79b9c5b1cd31d69b710d7b64abeaaf013adc7924e7801b33c5"
+hash = "afe5370668cf7fe07357089b4479675b41478561d3728bcd22145fcf38836391"
+metafile = true
+
+[[files]]
+file = "mods/copper-grates-bubble.pw.toml"
+hash = "64d0bec490fb618eb6519729d01fe9d26bf894fefaa389bba6704ae850deff13"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "696033cb487c654eab2644cde9953b123ff96c663709863727830f5128a1b6f8"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "7cd71deb6b83b2244c93fceb438227072fc8ab6e9cae95b9cbdcab1e95c4e51c"
+hash = "4249e3227f1ab027e4e9ab8e41f07d282d6cecadc1d08fae3d062f7f9c45288f"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "e1088fc1721ad67d8bc0024800a3e2b25eccce748bd3657e9d219944721b3205"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "958810fbf4f0c978e3c7a78b42829cdb4dcdc78be467dab37a9993df2d3eb5c0"
+hash = "3d5da87182e681fc30531abe525662e988d605b7ed77346ea664aacc82004a21"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/fuji.pw.toml"
+hash = "b8fc1aa0ccd59a7c9e54dfcd2503e39f141e8bb38e360fa243028e4645473180"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
-hash = "76278809585fa354f2a4def972c59f5ae5e3270beaac7e419e24e4870f6d6652"
+hash = "b3dbb43b313cda51d4b5e58fa1dc4a0a7a29a5bfaf8cd6d26e187dd8d2f83485"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "4c0cc01c047bdb7b3fe3096e509f55278c170a8355fb170085e319ec8a19fe32"
+hash = "673827e7472494626f9fd1f46e53c75d8f61098a037a748f7a29a00876d5c18a"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
-hash = "9541280459d936c6da82cb076dd9cd30e1fb5e97de993ac41f4e9da922620ba5"
+hash = "19b3595a90e36c9e174bab6262f8bed175a966fc1b6252c2102373f802be248d"
 metafile = true
 
 [[files]]
@@ -46,31 +96,121 @@ hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "b9a64588fa701a6707e2ab9877debcde319c331cf549841def516351d21c4b12"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "fdebd801d6761d163378e7699cf708219e387844b81127be40b56bd327cbedc8"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "d3c450b4967e02cc31e3e05000f5e5112de5b7ec18bbfee5ee75011197ba7da5"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
-hash = "1f9c70510fe21d5028a900ae31923e12c4bc4d7bbc38937f9c90ef75385ae6b7"
+hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-trials.pw.toml"
+hash = "3b1c22f1968a43cf2a7b8be27fbdf64b6bf341cf77cfb5f73a4e8203619c83da"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "2a03691b8b7b51c05a54ca26982962a18df989c60bfe05e8c2828633cf9b1a6d"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "8f715d005051430c909d86e1cb78535db342ed36efe21e47049dc2c7de99f792"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
+hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4f55b1a2ba7045c22027af34c2ea7850724c54dcd030471fdaaae4003f624053"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "b48f383658b3d564a166cf6a26f856b5dd2d2aa61995f7a9beb64e72cd716716"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "29eb2bfab304dc0c77cefbe18c813ec8a0f26d62e56a237f6683718e101f9f53"
+hash = "04533779e84c7e6dcea2058ed1dde426aad315e829a012890d785c35a8511adf"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "904ad5b0b32e5875203ded1e5f98995d2b93441e42c9a82fa6ca884a933a729d"
+hash = "f928ab705c93bfe8cf0ea98ca570906854064fea7f60f8b564b43a522265b082"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "14d97284cd0c50566cf5f303a1ffdfe5081b4c01e87dd6edc0903f3cfdd2e2c9"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "58acee06548125293942440e807f3ed506b5b4b4b27ae248142fae3575c9b3aa"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "aec1bc8136aebf7fc8278b6622f1d5180608a20ab33286783508a3146a1bd146"
+hash = "60494e1bd3699234efff9f649dec5f3cf9db96d6bf98ecf5e4cf5a781a07638f"
+metafile = true
+
+[[files]]
+file = "mods/trampleless.pw.toml"
+hash = "47f3b77df7c471bcd3a8765c2dfaa1ad16322ccf3fa4705f450ec73a5bad55c7"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "3a3eac5ffe0a6299390ee43c0dcefacf1884164949ccbf32d9e862e4de4beecb"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "83173b7c9b723078deaf67ec4dc1f3226766af6a93815665e9a6ec02d42a9f73"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "1cfdcc8191e43fc4f8d0f63a165cd648f2fa493cfd08e194cb8b52ad08a70180"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "93c32a77add965852df10a20824efe70f59d779bc4f0f8a6a2e684cb47695e3f"
 metafile = true

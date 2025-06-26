@@ -1,0 +1,13 @@
+name = "Trampleless"
+filename = "Trampleless 1.2.1 1.21.5-1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/shxtVuPU/versions/FmOaldL8/Trampleless%201.2.1%201.21.5-1.21.6.jar"
+hash-format = "sha512"
+hash = "9605c34995c3a10f3ed46452b61f6bcd5ec4c0dd04dd65547f5bbb43499b8321513d07c00face7bec3fb38e1e8d0aa6b051c4382fa52c464f00fea43eb74b87e"
+
+[update]
+[update.modrinth]
+mod-id = "shxtVuPU"
+version = "FmOaldL8"
