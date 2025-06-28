@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "cdccf91a433c11ccc4200febe14b0aaf2da1e5e482df65afb0367b465f0d0324"
+hash = "36e9d3ab60a56390d2494ebef80b3e42f71df6bc221cb2eb2a2a7240674c6a19"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "2a03691b8b7b51c05a54ca26982962a18df989c60bfe05e8c2828633cf9b1a6d"
+hash = "7c191fb10c582c72e41c725f7d78c2b10935de7526d61518f8af594a3b944039"
 metafile = true
 
 [[files]]
