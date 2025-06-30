@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "db6f63c236744a2ff1fba5bbc12493ee78a45dd3f5b1c288a856d0ef9d4ff407"
+hash = "92a9a3bdf5d80ef7f487e91112dc8b5e309824217845bc00eeb9245cacf23883"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
 metafile = true
 
 [[files]]
