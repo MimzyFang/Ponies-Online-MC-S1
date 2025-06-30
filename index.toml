@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/async.pw.toml"
-hash = "8de5db0155cb2c17fe7279c1a26bfd96b5dadead9edb691ee62573dd1b4e279d"
+hash = "334875b1bc92b316669e7cc9d859a66430bf70d67a0492a48d732aef383ebf53"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
-hash = "e1088fc1721ad67d8bc0024800a3e2b25eccce748bd3657e9d219944721b3205"
+hash = "95b4d81033b4f7f118a38132cc53574e236b755d0197124e1c52b4ac8adef5f1"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "bfbb685331af12b4f5e2a4280dcf1b92600041077b0e516be70421ccbada4790"
+hash = "d0b0db1dd7c227a0e8d4b4ac53b974f95c1eb7a9d70ecb4e676b14898e279eae"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4f55b1a2ba7045c22027af34c2ea7850724c54dcd030471fdaaae4003f624053"
+hash = "63e85e18fe429c9dc894dbe6c3f03f0df68704ce1b902100dec1cbb0e78cb70b"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "1cfdcc8191e43fc4f8d0f63a165cd648f2fa493cfd08e194cb8b52ad08a70180"
+hash = "b91f3b997455b6fcb2a385b29f75a9f86f1c254c652ac48b88c5d4a36aad437f"
 metafile = true
 
 [[files]]
