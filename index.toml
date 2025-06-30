@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "696033cb487c654eab2644cde9953b123ff96c663709863727830f5128a1b6f8"
+hash = "610fa67883e0488b09eecd2b6a5f4d40ac700907401c3965b957b3e9ce5a1d8c"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "36e9d3ab60a56390d2494ebef80b3e42f71df6bc221cb2eb2a2a7240674c6a19"
+hash = "bfbb685331af12b4f5e2a4280dcf1b92600041077b0e516be70421ccbada4790"
 metafile = true
 
 [[files]]
@@ -88,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "19b3595a90e36c9e174bab6262f8bed175a966fc1b6252c2102373f802be248d"
+metafile = true
+
+[[files]]
+file = "mods/htm.pw.toml"
+hash = "37e648563a8f2de877483b542430458f3c17ce54f60398a38e25d65257344993"
 metafile = true
 
 [[files]]

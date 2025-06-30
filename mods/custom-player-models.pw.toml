@@ -1,13 +1,13 @@
 name = "Customizable Player Models"
-filename = "CustomPlayerModels-Fabric-1.21.6-0.6.22d.jar"
+filename = "CustomPlayerModels-Fabric-1.21.6-0.6.22e.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/h1E7sQNL/versions/PtunQ8Rg/CustomPlayerModels-Fabric-1.21.6-0.6.22d.jar"
+url = "https://cdn.modrinth.com/data/h1E7sQNL/versions/4dfUYcrp/CustomPlayerModels-Fabric-1.21.6-0.6.22e.jar"
 hash-format = "sha512"
-hash = "495b14a872f96df0212d42a43aab6065b48f7dae6d11e6141e9fb1ec62551580572a0c8d3c5e6813bf9902d05873bb8e50dea416eb1c2379602018288c344629"
+hash = "4d9d5b45d0fc080a0d97bb7432855a8e0c64ce7db79a7dd60bdf947d5b1c8e36635a2bc88f042975cc170daf5132f39c73832a658726d9487c3a121ba35520b0"
 
 [update]
 [update.modrinth]
 mod-id = "h1E7sQNL"
-version = "PtunQ8Rg"
+version = "4dfUYcrp"
