@@ -3,11 +3,11 @@ filename = "async-0.1.7+alpha.5-1.21.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/UnNU10qL/async-0.1.7%2Balpha.5-1.21.7.jar"
+url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/JeCWKAIZ/async-0.1.7%2Balpha.5-1.21.7.jar"
 hash-format = "sha512"
-hash = "9aad95bd5353123280df4e1947ba1e68f4ade5d2872e371fb4cf0608eba8e45d84481f25a4b91a4d249ea303abad4da882b8e939091a4f21d21ee3c69fb667a7"
+hash = "a582b730a4a05ac098f4cf8cfa3f3216a53dd687f5949f1a3bdcb532c29d7876927c2a39e99c20ee2ec2927f15ddce349033216e69fc86bda2be6bc22c680192"
 
 [update]
 [update.modrinth]
 mod-id = "vEC2jm6I"
-version = "UnNU10qL"
+version = "JeCWKAIZ"

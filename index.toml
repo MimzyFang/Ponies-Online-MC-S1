@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/async.pw.toml"
-hash = "334875b1bc92b316669e7cc9d859a66430bf70d67a0492a48d732aef383ebf53"
+hash = "eb4135d4a6af6f6ed55c7db594b059f0604e4b08fad050be49e51eebfb28ab36"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "74d2462a28832de682c0802fbb92e4b2ab7a06996f26c01964e785d5500a42fb"
+hash = "43b612e52dff6a615831a13da622da193e509138d1252389f1f148407489584d"
 metafile = true
 
 [[files]]
