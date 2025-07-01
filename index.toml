@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "afe5370668cf7fe07357089b4479675b41478561d3728bcd22145fcf38836391"
+hash = "ebe4ab6b6dffa5f8a8314b530434a5ea056ab85fbc281ef3e7dbc5d5125dab39"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "610fa67883e0488b09eecd2b6a5f4d40ac700907401c3965b957b3e9ce5a1d8c"
+hash = "748459ad9410fc5b6de9eacb939bd87463c61ae006d5aac15925897d5ffc5a2f"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
+hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "d0b0db1dd7c227a0e8d4b4ac53b974f95c1eb7a9d70ecb4e676b14898e279eae"
+hash = "8232a147d7d717cb7e0bd99ff731111f176490b6a5e7f7a0fec648f16b30e128"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "d3c450b4967e02cc31e3e05000f5e5112de5b7ec18bbfee5ee75011197ba7da5"
+hash = "e288d89f861eb6c4713859822ec2bc020b1a9e9953c0386003c1c03b47c5a977"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "b48f383658b3d564a166cf6a26f856b5dd2d2aa61995f7a9beb64e72cd716716"
+hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "04533779e84c7e6dcea2058ed1dde426aad315e829a012890d785c35a8511adf"
+hash = "a0dbd38eace0a67288b27d2463d7383b4e28183f844bbf8521c505a932c41363"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "f928ab705c93bfe8cf0ea98ca570906854064fea7f60f8b564b43a522265b082"
+hash = "9c5ef39a8ae37a70e5a9c689e5978b3bbdb22429056756ad7a25247fd6d95952"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/trampleless.pw.toml"
-hash = "47f3b77df7c471bcd3a8765c2dfaa1ad16322ccf3fa4705f450ec73a5bad55c7"
+hash = "839912a99add16be941acfd8f5e4f19f4ebf3b719fe55759c78274845b33af24"
 metafile = true
 
 [[files]]

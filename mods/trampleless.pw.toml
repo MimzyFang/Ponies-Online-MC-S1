@@ -1,13 +1,13 @@
 name = "Trampleless"
-filename = "Trampleless 1.2.1 1.21.5-1.21.6.jar"
+filename = "Trampleless 1.2.1 1.21.5-1.21.7.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/shxtVuPU/versions/FmOaldL8/Trampleless%201.2.1%201.21.5-1.21.6.jar"
+url = "https://cdn.modrinth.com/data/shxtVuPU/versions/gam0VICD/Trampleless%201.2.1%201.21.5-1.21.7.jar"
 hash-format = "sha512"
-hash = "9605c34995c3a10f3ed46452b61f6bcd5ec4c0dd04dd65547f5bbb43499b8321513d07c00face7bec3fb38e1e8d0aa6b051c4382fa52c464f00fea43eb74b87e"
+hash = "1559f73e6fefa3560d78b0d6464b4b50129891822f58032c27d4ba9fb98b7718d4dffa090017c9de7e82a9898b8ec90e6c14d5c50d8862e194f1de0ec6c32cd9"
 
 [update]
 [update.modrinth]
 mod-id = "shxtVuPU"
-version = "FmOaldL8"
+version = "gam0VICD"
