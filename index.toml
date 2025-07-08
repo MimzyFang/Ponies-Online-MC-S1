@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "43b612e52dff6a615831a13da622da193e509138d1252389f1f148407489584d"
+hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "1c6e25a7bcbdc55f44bd46854a6c7c12c2a0f1d36ba49e1288c1ca52692946f6"
+hash = "e0a16dbd221ebc09692f73168bbf0342dc9a9c2e15cb956a3c8ca9fef91be44c"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6772afd6a6c5a7bca262e969e11ca5132844425cbe20281b65647624fb661b18"
+hash = "da55bd0f49bc6c15e23cd7449ffef7946dbf216821c6eff6bce96cd80c4597ef"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "7c191fb10c582c72e41c725f7d78c2b10935de7526d61518f8af594a3b944039"
+hash = "c7053f68b506227cb823a5abdbfe1b07135d6a9f6e0ee79a2564e7dfe6e2dae0"
 metafile = true
 
 [[files]]
