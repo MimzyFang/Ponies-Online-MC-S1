@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "e0a16dbd221ebc09692f73168bbf0342dc9a9c2e15cb956a3c8ca9fef91be44c"
+hash = "79d7bd9fde6b32e3c3846763db7f7387ecf4805a86438a859f3708155678f81f"
 metafile = true
 
 [[files]]
