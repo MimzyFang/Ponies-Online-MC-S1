@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "79d7bd9fde6b32e3c3846763db7f7387ecf4805a86438a859f3708155678f81f"
+hash = "816753c04db4443deaa9d896fa494418d2e1c73cfb1961aad81defee375fd2f4"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "c7053f68b506227cb823a5abdbfe1b07135d6a9f6e0ee79a2564e7dfe6e2dae0"
+hash = "69739eb5be7ebf402fb54d8a0263415ebc66e45873437d501b800c9e7b1c01cc"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c8b5a1924109b9103d1fd65c23ae18b00fc3b20720a0060d83e1ae3b5fda86e8"
+hash = "40630d6f1fdd0011a3aa9270af99b331103a9eaed6e7832650e85b325a50bc85"
 metafile = true
 
 [[files]]
