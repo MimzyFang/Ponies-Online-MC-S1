@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "92a9a3bdf5d80ef7f487e91112dc8b5e309824217845bc00eeb9245cacf23883"
+hash = "8b8e03d3ab7eaa7d93cd25d79f6e21fc5fd4124beb3b6735c09af0261ff7ee17"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
+hash = "d7df52986724052636885af06a28bbf11eb919fc58b7dafdffdf22d6805d4eaf"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
-hash = "95b4d81033b4f7f118a38132cc53574e236b755d0197124e1c52b4ac8adef5f1"
+hash = "16181b9f782c2b701c7ecd7d9cf2f0998111ca77aa7b759357f2d6cb0a2679c9"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "816753c04db4443deaa9d896fa494418d2e1c73cfb1961aad81defee375fd2f4"
+hash = "8b618ec48f6f4fb0a08e273c8d95741962f0cc1ac6ffdbdfea1055ceb7b13a34"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "5fde9f421ee79bb8d89b64a80c58b1be180ab78c792146392767638f5c43cacc"
+hash = "41e29e8057a2614a0eb83255cbd8c08504f23d584b0df0d12f5f5705444cbf87"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "40630d6f1fdd0011a3aa9270af99b331103a9eaed6e7832650e85b325a50bc85"
+hash = "a0ec1e733a84d7ca4c54f00f86ddde88a2f922cbdce0a62948b3a5050b08b2d1"
 metafile = true
 
 [[files]]
@@ -207,12 +207,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
+hash = "0a62d4e9dab1aa7186540e633f2fd94012e8300f7afece66768efdb3508f3ede"
 metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "b91f3b997455b6fcb2a385b29f75a9f86f1c254c652ac48b88c5d4a36aad437f"
+hash = "711c23a183e2e3e84b12c812f4d621941559e9d73a3a47f3be440c03d83defd8"
 metafile = true
 
 [[files]]
