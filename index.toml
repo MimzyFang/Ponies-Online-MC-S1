@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "8b618ec48f6f4fb0a08e273c8d95741962f0cc1ac6ffdbdfea1055ceb7b13a34"
+hash = "996d4acb88d5f414bd038258c05f04f914adf0e4dd79c2ffebb69437e768828d"
 metafile = true
 
 [[files]]
