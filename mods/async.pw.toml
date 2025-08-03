@@ -1,13 +1,13 @@
 name = "Async"
-filename = "async-0.1.7+alpha.5-1.21.7.jar"
+filename = "async-fabric-0.1.7+alpha.6-1.21.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/JeCWKAIZ/async-0.1.7%2Balpha.5-1.21.7.jar"
+url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/8FvmMY9Z/async-fabric-0.1.7%2Balpha.6-1.21.8.jar"
 hash-format = "sha512"
-hash = "a582b730a4a05ac098f4cf8cfa3f3216a53dd687f5949f1a3bdcb532c29d7876927c2a39e99c20ee2ec2927f15ddce349033216e69fc86bda2be6bc22c680192"
+hash = "624e33a18a6ae6d291e65918d3de33b4a9142d1d0c2bccaec7a12de6e39654a5a4bb70d834771622f549e480e0cf62d7a57871aec81020b34079a1768a372691"
 
 [update]
 [update.modrinth]
 mod-id = "vEC2jm6I"
-version = "JeCWKAIZ"
+version = "8FvmMY9Z"
