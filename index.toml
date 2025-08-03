@@ -121,11 +121,6 @@ hash = "5e7d7f0551f95f2f496098b0eb9f3ed4d5942ce981f4eb9e1f80c1a83ef19058"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-trials.pw.toml"
 hash = "40e8fba7af4caf708baee05f7f27672e3c651ebca592fae07dc6a575b81767a8"
 metafile = true
@@ -188,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e1e848fcde09b82ed48f1b4196f7036873f462ce12e3ee742bad2a3828ff38f5"
-metafile = true
-
-[[files]]
-file = "mods/trampleless.pw.toml"
-hash = "839912a99add16be941acfd8f5e4f19f4ebf3b719fe55759c78274845b33af24"
 metafile = true
 
 [[files]]
