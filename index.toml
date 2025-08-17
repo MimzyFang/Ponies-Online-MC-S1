@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/async.pw.toml"
-hash = "cb07e655777d01832c993763cc6f4b78613459478a946d92f8f11b71e1936a25"
+hash = "4b36d579466fbed8edb5e3285f183c76895a046b0e4cf7dbe50466d8d44bfa99"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "7aa142a3c3be13e13b68d91e8c985d01b43f9b3b92c8e2a32dd6fc83353dc7ae"
+hash = "950139b43bd4634848c39bbe340b2b69a096ddf856080e75cd4ef96899d04a71"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "ebe4ab6b6dffa5f8a8314b530434a5ea056ab85fbc281ef3e7dbc5d5125dab39"
+hash = "47470401b73b49016c2ccb9861a0dcdb5b5a14b0ac47bc1c3d8c76de6f900314"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "1ee13c292f46f47766f87e736374a42038833e9ae6b7a48c48852bf335e37bc5"
+hash = "7312f093f48041bf50ad8af890c91c6f0a9f7782ea2630eb62db3827d3ecaf32"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "59acfaf613f3df57ed4934a25e991e7f74751c19494be2e53d5eb86f6c659ced"
+hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "a3caac31606b281819919c16fb8d57ee182f379b749daf3461c6819552d7f9c8"
+hash = "2c2664831f781384602b910bf4529b05e25f230bcfd66bae331af95637dd9fcc"
 metafile = true
 
 [[files]]
@@ -122,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-trials.pw.toml"
-hash = "40e8fba7af4caf708baee05f7f27672e3c651ebca592fae07dc6a575b81767a8"
+hash = "5da2cfce6fd43bd5a0e4a2e26496c48f3ca39f376062175e4497eb12b75bd94c"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "a26583f21100b7c4430a883d1f323ade4ed5c85554f7e4c694e7d7ae7eff561e"
+hash = "0712f38ff53ab02a31ac194a131b0de3a55e6efb4da128d077e0d4d555881dcf"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+hash = "284e709de197c7bbd323489c83baf288006785e8cd8d3cf8b38cf7dbbbc36703"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ffc35cee2eeb4a9c854e062ace8cfa89cf8724390c044eec4c5200446929c24c"
+hash = "3d4e09db818e622bdaf1ca38dde12b7412b7c6cdab893806cdd1920abe909aa8"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e1e848fcde09b82ed48f1b4196f7036873f462ce12e3ee742bad2a3828ff38f5"
+hash = "ebd16b110b7239fa461ba3cd01ed3eba446c664bb2d16808d2aa95036f9570f8"
 metafile = true
 
 [[files]]
