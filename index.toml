@@ -6,11 +6,6 @@ hash = "bc0fc7ccf2970ecb88998d801ccec7856e29202d70c19d3802bee08034b0dfc1"
 metafile = true
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "4b36d579466fbed8edb5e3285f183c76895a046b0e4cf7dbe50466d8d44bfa99"
-metafile = true
-
-[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "8b8e03d3ab7eaa7d93cd25d79f6e21fc5fd4124beb3b6735c09af0261ff7ee17"
 metafile = true
@@ -26,6 +21,11 @@ hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
+metafile = true
+
+[[files]]
 file = "mods/clifftree.pw.toml"
 hash = "47470401b73b49016c2ccb9861a0dcdb5b5a14b0ac47bc1c3d8c76de6f900314"
 metafile = true
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "7312f093f48041bf50ad8af890c91c6f0a9f7782ea2630eb62db3827d3ecaf32"
+hash = "d6da85a93e1fd60aeb9794d13e57ff9785bd407097da00fe562aea1923ce5498"
 metafile = true
 
 [[files]]
