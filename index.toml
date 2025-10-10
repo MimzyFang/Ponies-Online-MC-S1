@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "4c09b51d9cfabeca10e473725cd1486021dd3a8be205b4bf34feba5efbb3160d"
+hash = "a3456f9f48cb7a0d77c6861c5130df570fd8f97888815b70873e36c04bf334e1"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/htm.pw.toml"
-hash = "37e648563a8f2de877483b542430458f3c17ce54f60398a38e25d65257344993"
+hash = "47691e28ab63a690ca9dd2bf5c3c08a4d47b774f16f31acdcdba7d48702b76f4"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "ee0642135767654105073aad9b96e63805a1c87e7b7b1a597c816f3f1c699296"
+hash = "205603ac2b1855b6d14f4d5524ffcd514538d3e48cc4a158aa3b4c09ba6090d5"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "2e1767205933bb80f93352df4b48da642d90e2b167510bbfe1c52d7a34123549"
+hash = "1bd16c36df6be2752be3da5fcf414b252e4f6f8bb4cb086d0eca02e66afd7555"
 metafile = true
 
 [[files]]
